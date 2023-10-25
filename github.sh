@@ -8,7 +8,7 @@ export repositorio="https://github.com/Trabalhotcc001/recomecosobrio.git";
 
 #Daqui pra baixo mexa somente se for realmente necessário ou se souber o que está fazendo :P
 
-export branch_name="aula-$(date -I)"
+export branch_name="aulaa-$(date -I)"
 
 #add linux, mac and windows folders to gitignore
 echo "" >> .gitignore
